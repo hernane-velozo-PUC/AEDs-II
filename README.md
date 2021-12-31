@@ -1,1 +1,1 @@
-# Algoritmos e Estrtutura de Dados II - AEDsII
+# Algoritmos e Estruturas de Dados II - AEDs II
